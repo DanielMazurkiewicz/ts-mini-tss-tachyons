@@ -1,0 +1,12 @@
+{
+  "name": "ts-mini-tss-tachyons",
+  "version": "0.0.1",
+  "description": "Port of tachyons css library for ts-mini",
+  "main": "tachyons.ts",
+  "repository": "https://github.com/DanielMazurkiewicz/ts-mini-tss-tachyons.git",
+  "author": "Daniel Mazurkiewicz <daniel.mazurkiewicz.dm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-mini": "*"
+  }
+}
